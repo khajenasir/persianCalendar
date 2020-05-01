@@ -1,0 +1,127 @@
+{
+  "project_info": {
+    "project_number": "44067242646",
+    "firebase_url": "https://tets-ea835.firebaseio.com",
+    "project_id": "tets-ea835",
+    "storage_bucket": "tets-ea835.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:44067242646:android:22e897a3bad535ba83b8b7",
+        "android_client_info": {
+          "package_name": "com.khaje.calendar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "44067242646-emhnqg1p99puebv81a7nte9kji2ca09n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9_fWVYWq9lyeDRy7ntKwFBbZaQXmZj8s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "44067242646-emhnqg1p99puebv81a7nte9kji2ca09n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:44067242646:android:dda774bdeb47a75183b8b7",
+        "android_client_info": {
+          "package_name": "com.knst.drugstore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "44067242646-emhnqg1p99puebv81a7nte9kji2ca09n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9_fWVYWq9lyeDRy7ntKwFBbZaQXmZj8s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "44067242646-emhnqg1p99puebv81a7nte9kji2ca09n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:44067242646:android:020bcb1278181204",
+        "android_client_info": {
+          "package_name": "com.knst.romandooni"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "44067242646-emhnqg1p99puebv81a7nte9kji2ca09n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9_fWVYWq9lyeDRy7ntKwFBbZaQXmZj8s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "44067242646-emhnqg1p99puebv81a7nte9kji2ca09n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:44067242646:android:b7bdd99baf524f0c",
+        "android_client_info": {
+          "package_name": "com.knst.tabirekhab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "44067242646-emhnqg1p99puebv81a7nte9kji2ca09n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9_fWVYWq9lyeDRy7ntKwFBbZaQXmZj8s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "44067242646-emhnqg1p99puebv81a7nte9kji2ca09n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
