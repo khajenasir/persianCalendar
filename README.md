@@ -6,8 +6,7 @@
 
 ## تقویم فارسی اندروید
 
-تقویم ساده، رایگان و آزاد اندروید به همراه ویجت و پشتیبانی از DashClock  
-برای دریافت و نصب بر برگهٔ releases در بالای صفحه کلیک کنید.
+تقویم ساده، رایگان و آزاد اندروید به همراه ویجت و پشتیبانی از DashClock 
 
 </div>
 
@@ -16,8 +15,7 @@
 
 ## License
 
-Copyright (C) 2012-2019  ebrahim@gnu.org  <- original source
-https://github.com/persian-calendar/DroidPersianCalendar
+Copyright (C) 2012-2019
 
 
 This program is free software: you can redistribute it and/or modify 
